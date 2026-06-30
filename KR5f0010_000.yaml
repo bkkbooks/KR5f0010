@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR5f0010/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 墨子
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-29 02:18:06.625807'
+  source:
+    repository: kanripo
+    path: KR5f0010/KR5f0010_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:c381d9008a731e0e3d0d904002ea2f26bac954bafa1ed968a5005953e0a0b4c5

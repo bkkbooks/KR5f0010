@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5f0010/SBCK/v1/juan/0
+seq: 0
+front:
+  text: 新刋墨子叙余讀賈生過秦論至孔墨並稱疑焉以為墨非聖人也賈生特言之過耳及觀韓昌讀墨篇謂其道與聖人相爲用又疑焉昌宗孟氏之學者孟氏闢墨甚嚴而昌乃稱取至此何其言之殊耶抑果墨之道可尚而無所背於聖耶余既不敢以墨爲是而亦不敢以昌爲非惜乎不見墨氏之書以决胸臆之疑而徒懸兩可之見前年居京師幸於友人家覔内府本讀之乃知墨之道果異於自自利之徒而其言足以鼓動天下之人天下尊而信之不在於孔氏下其與孔並稱宜也孟氏出其後獨取天下之所尊信者闢而絕之得無防其流歟嗚呼子夏之後爲子方子方之後爲莊周謂周之學出於孔可乎學者資禀趨向自人人殊而其師學術或有未端果能導其流乎否也别駕唐公以博學聞於世視暇訪余於山堂得墨原本將歸而梓之故余効昌之說表章之云嘉靖癸丑歲春二月吳興陸穩叙
+  hash: sha256:a0708a32c704fb63ace41537715f159ae63316b0f0321b3479a425573cdd1309
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5f0010_SBCK_000-1a}
+body:
+  text: 右墨子墨子貴仁義是堯舜禹湯文武而非仲尼仲尼仁義之宗堯舜禹湯文武之選也而非之是尚得爲貴仁義是堯舜禹湯文武者哉今觀其非仲尼無所置喙第拾晏嬰之言而託之乎見究其似可與侏儒比肩墨子之道不息孔子之道不著而有能距之者是亦聖人之徒謂非儒也其他固可誦巳謹附此以爲讀墨子者告南
+  hash: sha256:bc4ab6e650a05f037a306bb8e78785478dfc143b217c201b491f815c418b7cef
+metadata:
+  title: 墨子
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+  date: '2015-08-29 02:18:06.625807'
+  source:
+    repository: kanripo
+    path: KR5f0010/KR5f0010_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:c23765fcfd17993d2f58c0099ff06285f7b119490a69643ddd5d1e0ad720d3ff
