@@ -340,6 +340,7 @@ markers:
   - {type: line-break, offset: 1168, content: '', id: KR5f0010_SBCK_006-5b02}
   - {type: indent, offset: 1168, content: 　　, id: KR5f0010_SBCK_006-bkkind3}
   - {type: punctuation, offset: 1175, content: (, id: KR5f0010_SBCK_006-bkkpn1}
+  - {type: voice, offset: 1175, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 1176, content: ), id: KR5f0010_SBCK_006-bkkpn2}
   - {type: 'kr:newline', offset: 1176, content: '
 
@@ -347,6 +348,7 @@ markers:
   - {type: line-break, offset: 1176, content: '', id: KR5f0010_SBCK_006-5b03}
   - {type: indent, offset: 1176, content: 　　, id: KR5f0010_SBCK_006-bkkind4}
   - {type: punctuation, offset: 1183, content: (, id: KR5f0010_SBCK_006-bkkpn3}
+  - {type: voice, offset: 1183, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 1184, content: ), id: KR5f0010_SBCK_006-bkkpn4}
   - {type: 'kr:newline', offset: 1184, content: '
 
@@ -354,6 +356,7 @@ markers:
   - {type: line-break, offset: 1184, content: '', id: KR5f0010_SBCK_006-5b04}
   - {type: indent, offset: 1184, content: 　　, id: KR5f0010_SBCK_006-bkkind5}
   - {type: punctuation, offset: 1191, content: (, id: KR5f0010_SBCK_006-bkkpn5}
+  - {type: voice, offset: 1191, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 1192, content: ), id: KR5f0010_SBCK_006-bkkpn6}
   - {type: 'kr:newline', offset: 1192, content: '
 
@@ -1150,9 +1153,10 @@ markers:
   - {type: line-break, offset: 3942, content: '', id: KR5f0010_SBCK_006-16b01}
   - {type: line-break, offset: 3947, content: '', id: KR5f0010_SBCK_006-16b02}
   - {type: punctuation, offset: 3947, content: (, id: KR5f0010_SBCK_006-bkkpn7}
+  - {type: voice, offset: 3947, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 3948, content: ), id: KR5f0010_SBCK_006-bkkpn8}
   - {type: 'kr:newline', offset: 3948, content: '
 
       ', id: KR5f0010_SBCK_006-bkkkrnewl257}
   back: []
-hash: sha256:f290b6628f3ce4fee6b85708168f1ebedb8fb2b6df72bff9c2491eb67501a0af
+hash: sha256:4d3b48deedc7b78d1ded06f5443f87f7efac6b0968d3daa0019c73b0673ca9fb
